@@ -1,0 +1,9 @@
+# Site settings
+title: Test New Blog Title
+author:
+  name: Stian Thoresen
+  email: your-email@domain.com
+description: "Test site about Jekyll on GH-Pages."
+
+# Build settings
+remote_theme: jekyll/minima
